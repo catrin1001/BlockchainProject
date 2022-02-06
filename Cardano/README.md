@@ -24,8 +24,8 @@ Here is step by step for creating VM in Azure.
 ------------
 
 #### Connect to VM
-With putty Generator upload your yourname.pem
-With Putty connect to your Ubuntu machine.
+1. With putty Generator upload your yourname.pem
+2. With Putty connect to your Ubuntu machine.
 
 
 ## Steps to setup own Cardano Node Testnet on Ubuntu:
