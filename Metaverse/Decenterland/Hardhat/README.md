@@ -7,7 +7,7 @@ Try running some of the following tasks:
 ```shell
 npx hardhat compile
 node scripts/deploy.js
-npx hardhat run scripts/deploy.js --network	Ropsten
+npx hardhat run scripts/deploy.js --network Ropsten
 ```
 
 
